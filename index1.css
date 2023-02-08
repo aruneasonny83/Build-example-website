@@ -1,0 +1,75 @@
+.link{
+    text-align: center;
+}
+
+.uki1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+  .myDiv1 {
+    background-color: lightblue;    
+    text-align: center;
+    width: 500px;
+    padding: 30px;
+    margin: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius:20px;
+
+  }
+  
+  .uki3{
+    background-color: rgba(90, 85, 85, 0.87);
+    width: 350px;
+    padding: 30px;
+    margin: 20px;
+    margin-left: auto;
+    float: left;
+    border-radius:10px;
+
+  }
+  
+
+  .uki4{
+    background-color: rgba(90, 85, 85, 0.87);
+    width: 350px;
+    padding: 30px;
+    margin: 20px;
+    margin-left: auto;
+    float: right;
+    border-radius:10px;
+  }
+
+  .myDiv {
+    background-color: lightblue;    
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 20px;
+    border-radius:10px;
+  
+  }
+
+  .form1 {
+    text-decoration: underline;
+    text-align: center;
+  }
+  .form2,.c1{
+    text-align: center;
+    border: solid 1px #080808;
+    background-color:rgb(77, 151, 201);
+  }
+
+ 
+    .c1{
+      margin-left: 450px;
+    
+    }
+
+  
+
+ 
